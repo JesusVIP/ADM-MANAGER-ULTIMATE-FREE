@@ -167,7 +167,7 @@ if [ "$pid_badvpn" = "" ]; then
     echo -e "${cor[1]} =================================== ${cor[0]}"
     if [[ ! -e /bin/badvpn-udpgw ]]; then
     cd $HOME
-    wget https://www.dropbox.com/s/gui17soyx5gwnm3/badvpn-udpgw -o /dev/null
+    wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ULTIMATE/master/install/badvpn-udpgw -o /dev/null
     mv -f $HOME/badvpn-udpgw /bin/badvpn-udpgw
     chmod 777 /bin/badvpn-udpgw
     fi
