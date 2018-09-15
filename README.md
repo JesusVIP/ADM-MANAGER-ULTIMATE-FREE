@@ -1,4 +1,4 @@
-﻿# ADM-MANAGER-ULTIMATE
+﻿# ADM-MANAGER-ULTIMATE-FREE
 
 Manager Script
 
@@ -6,7 +6,7 @@ Manager Script
 
  • NO TRADUCIR EL SCRIPT POR FALLAS DE LA API DE GOOGLE (FALLA EXTERIOR AL SCRIPT)
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ULTIMATE/master/instala.sh; chmod +x instala.sh; ./instala.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ULTIMATE-FREE/master/instala.sh; chmod +x instala.sh; ./instala.sh
 
 
 
